@@ -1,0 +1,659 @@
+www.reunion.gouv.fr	Les services de l'Etat à La Réunion	
+www.accessibilite.gouv.fr	Les agendas d'accessibilité programmée	
+www.achats.defense.gouv.fr	Le portail achats du ministère de la défense	
+www.adetef.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.ado.justice.gouv.fr	ADO JUSTICE	
+www.adoption.gouv.fr	www.adoption.gouv.fr	
+www.aeses.jeunesse-sports.gouv.fr	Association éducative, sportive et d'entraide sociale	
+www.affaires-maritimes.mediterranee.equipement.gouv.fr	Direction Interrégionale de la Mer Méditerranée	
+www.aft.gouv.fr	Agence France Trésor - AFT	
+www.agenda21.languedoc-roussillon.developpement-durable.gouv.fr	Agenda21	
+www.agircontreleharcelementalecole.gouv.fr	Non au harcèlement : Appelez le 3020	
+www.agreste.agriculture.gouv.fr	Ministère de l'agriculture, de l'agroalimentaire et de la forêt - Agreste - La statistique, l'évaluation et la prospective agricole	
+www.agriculture.gouv.fr	Alim'agri :	
+www.ain.developpement-durable.gouv.fr	Internet des services de l'Etat dans l'Ain	
+www.ain.equipement.gouv.fr	Internet des services de l'Etat dans l'Ain	
+www.ain.gouv.fr	Internet des services de l'Etat dans l'Ain	
+www.ain.pref.gouv.fr	Internet des services de l'Etat dans l'Ain	
+www.alerte-enlevement.gouv.fr	Ministère de la Justice - Alerte-enlèvement : Diffuser sur Facebook	
+www.alimentation.gouv.fr	Alim'agri :	
+www.allier.equipement.gouv.fr	Les services de l'État dans l'Allier	
+www.allier.gouv.fr	Les services de l'État dans l'Allier	
+www.allier.pref.gouv.fr	Les services de l'État dans l'Allier	
+www.allo119.gouv.fr	119	
+www.alsace.biep.gouv.fr	BRIEP Alsace	
+www.alsace.developpement-durable.gouv.fr	DREAL Alsace	
+www.alsace.direccte.gouv.fr	Direccte Alsace-Champagne-Ardenne-Lorraine	
+www.alsace.drjscs.gouv.fr	DRDJSCS ACAL	
+www.alsace.equipement.gouv.fr	DREAL Alsace	
+www.alternance.emploi.gouv.fr	le portail de l'alternance - Espace - Accueil	
+www.anc.gouv.fr	Accueil	
+www.anesm.sante.gouv.fr	Anesm	
+www.anlci.gouv.fr	Accueil - Agence Nationale de Lutte contre l'Illettrisme	
+www.annuaires.justice.gouv.fr	Justice / Annuaires et contacts	
+www.ant.developpement-durable.gouv.fr	Aménagement Numérique des Territoires	
+www.ants.interieur.gouv.fr	ANTS 	
+www.apprentissage.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.aquitaine.developpement-durable.gouv.fr	DREAL Aquitaine	
+www.aquitaine.direccte.gouv.fr	Direccte Aquitaine-Limousin-Poitou-Charentes	
+www.aquitaine.drjscs.gouv.fr	DR-D-JSCS Aquitaine-Limousin-Poitou-Charentes	
+www.aquitaine.travail.gouv.fr	Direccte Aquitaine-Limousin-Poitou-Charentes	
+www.archeologie-aerienne.culture.gouv.fr	L'Archéologie aérienne dans la France du Nord	
+www.archives-judiciaires.justice.gouv.fr	Ministère de la Justice - archives-judiciaires : Les archives contemporaines de la Justice	
+www.archives.premier-ministre.gouv.fr	Les Archives de gouvernement.fr	
+www.archivesdefrance.culture.gouv.fr	Archives de France : Page d'accueil	
+www.archivesnationales.culture.gouv.fr	Archives nationales - France	
+www.ardeche.equipement-agriculture.gouv.fr	Ardèche	
+www.ardeche.equipement.gouv.fr	Ardèche	
+www.ardeche.gouv.fr	Ardèche	
+www.ardeche.pref.gouv.fr	Ardèche	
+www.ardennes.equipement-agriculture.gouv.fr	Internet des Services de l'Etat Ardennes	
+www.ardennes.gouv.fr	Internet des Services de l'Etat Ardennes	
+www.ardennes.pref.gouv.fr	Internet des Services de l'Etat Ardennes	
+www.assemblee-nationale.fr	Assemblée nationale ~ Les députés, le vote de la loi, le Parlement français	
+www.association.gouv.fr	Associations.gouv.fr : Ministère de la Ville, de la Jeunesse et des Sports	
+www.associations.gouv.fr	Associations.gouv.fr : Ministère de la Ville, de la Jeunesse et des Sports	
+www.ateliers-apprentissage.emploi.gouv.fr	Index of /	
+www.aude.gouv.fr	AUDE	
+www.aude.pref.gouv.fr	AUDE	
+www.auvergne.culture.gouv.fr	Drac Auvergne - Rhône-Alpes - Ministère de la Culture et de la Communication	
+www.auvergne.developpement-durable.gouv.fr	DREAL Auvergne	
+www.auvergne.direccte.gouv.fr	Direccte AUVRA	
+www.auvergne.drjscs.gouv.fr	DRDJSCS Auvergne-Rhône-Alpes	
+www.auvergne.equipement.gouv.fr	DREAL Auvergne	
+www.aveyron.gouv.fr	Internet des Services de l'Etat en Aveyron	
+www.aveyron.pref.gouv.fr	Internet des Services de l'Etat en Aveyron	
+www.aviation-civile.gouv.fr	Secteur Aérien - Ministère du Développement durable	
+www.avisderecherches.interieur.gouv.fr		
+www.bafa-bafd.gouv.fr	.: Internet BAFA/BAFD - Ministère des Sports, de la Jeunesse, de l'Education Populaire et de la Vie Associative |. 	
+www.bafa-bafd.jeunes.gouv.fr	.: Internet BAFA/BAFD - Ministère des Sports, de la Jeunesse, de l'Education Populaire et de la Vie Associative |. 	
+www.basse-normandie.developpement-durable.gouv.fr	DREAL Basse-Normandie	
+www.basse-normandie.direccte.gouv.fr	Direccte Normandie	
+www.basse-normandie.drjscs.gouv.fr	DRDJSCS Normandie	
+www.bea-tt.equipement.gouv.fr	site internet du bea-tt	
+www.biep.fonction-publique.gouv.fr	Bourse Interministérielle de l'emploi public	
+www.biep.gouv.fr	Bourse Interministérielle de l'emploi public	
+www.bison-fute.developpement-durable.gouv.fr	Accueil          - Bison Futé   	
+www.bison-fute.equipement.gouv.fr	Accueil          - Bison Futé   	
+www.bison-fute.gouv.fr	Accueil          - Bison Futé   	
+www.bisonfute.equipement.gouv.fr	Accueil          - Bison Futé   	
+www.bougezautrement.gouv.fr	La Semaine européenne de la mobilité 16 au 22 septembre 2015 - Ministère du Développement durable	
+www.bourgogne.culture.gouv.fr	Drac Bourgogne - Franche-Comté - Ministère de la Culture et de la Communication	
+www.bourgogne.developpement-durable.gouv.fr	DREAL Bourgogne	
+www.bourgogne.direccte.gouv.fr	Direccte Bourgogne-Franche-Comté	
+www.bourgogne.drjscs.gouv.fr	DRDJSCS Bourgogne-Franche-Comté	
+www.bourgogne.jeunesse-sports.gouv.fr	DRDJSCS Bourgogne-Franche-Comté	
+www.bretagne.biep.gouv.fr	BRIEP Bretagne	
+www.bretagne.culture.gouv.fr	DRAC Bretagne - Accueil	
+www.bretagne.developpement-durable.gouv.fr	DREAL Bretagne	
+www.bretagne.direccte.gouv.fr	Direccte Bretagne	
+www.bretagne.travail.gouv.fr	Direccte Bretagne	
+www.btp.developpement-durable.gouv.fr	Marchés publics du BTP - Ministère du Développement durable	
+www.bulletin-officiel.developpement-durable.gouv.fr	boaccueil	
+www.c2sd.sga.defense.gouv.fr	666 Bad Request	
+www.cadastre.gouv.fr	www.cadastre.gouv.fr un site du ministère de l'Economie des finances et de l'industrie.	
+www.cae.gouv.fr	Accueil : Conseil d'Analyse Economique | CAE	
+www.calvados.developpement-durable.gouv.fr	Les services de l'Etat dans le Calvados	
+www.calvados.equipement-agriculture.gouv.fr	Les services de l'Etat dans le Calvados	
+www.calvados.equipement.gouv.fr	Les services de l'Etat dans le Calvados	
+www.calvados.gouv.fr	Les services de l'Etat dans le Calvados	
+www.calvados.pref.gouv.fr	Les services de l'Etat dans le Calvados	
+www.cantal.equipement-agriculture.gouv.fr	Les services de l'Etat dans le Cantal	
+www.cantal.equipement.gouv.fr	Les services de l'Etat dans le Cantal	
+www.cantal.gouv.fr	Les services de l'Etat dans le Cantal	
+www.cantal.pref.gouv.fr	Les services de l'Etat dans le Cantal	
+www.carte-judiciaire.justice.gouv.fr	Justice / Presse / La réforme de la carte judiciaire	
+www.cas.gouv.fr	Conseil d'Analyse de la Société	
+www.cdu.urbanisme.equipement.gouv.fr	Centre de documentation de l'urbanisme	
+www.centre.developpement-durable.gouv.fr	DREAL Centre-Val de Loire	
+www.centre.direccte.gouv.fr	Direccte Centre-Val de Loire	
+www.centre.drire.gouv.fr	DREAL Centre-Val de Loire	
+www.cepc.bercy.gouv.fr	CEPC - Commission d'examen des pratiques commerciales (CEPC ) : Le portail des ministères économiques et financiers	
+www.cerc.gouv.fr		
+www.certa.ssi.gouv.fr	Site du CERT-FR	
+www.cesat.terre.defense.gouv.fr	666 Bad Request	
+www.cete-est.developpement-durable.gouv.fr	Direction territoriale Est	
+www.cete-est.equipement.gouv.fr	Direction territoriale Est	
+www.cete-lyon.equipement.gouv.fr	Direction territoriale Centre Est	
+www.cete-nc.equipement.gouv.fr	Cerema - Direction territoriale Normandie Centre	
+www.cete-nord-picardie.equipement.gouv.fr	Cerema Nord-Picardie	
+www.cete-normandie-centre.developpement-durable.gouv.fr	Cerema - Direction territoriale Normandie Centre	
+www.cete-normandie-centre.equipement.gouv.fr	Cerema - Direction territoriale Normandie Centre	
+www.cete-ouest.developpement-durable.gouv.fr	Direction territoriale Ouest du Cerema	
+www.cete-sud-ouest.equipement.gouv.fr	Bienvenue sur le site internet Cerema Sud-Ouest	
+www.cetmef.developpement-durable.gouv.fr	Direction technique Eau, mer et fleuves	
+www.cetmef.equipement.gouv.fr	Maintenance.html	
+www.cgedd.developpement-durable.gouv.fr	CGEDD	
+www.cget.gouv.fr	CGET : Commissariat général à l'égalité des territoires	
+www.champagne-ardenne.developpement-durable.gouv.fr	DREAL Champagne-Ardenne	
+www.champagne-ardenne.direccte.gouv.fr	Direccte Alsace-Champagne-Ardenne-Lorraine	
+www.champagne-ardenne.drjscs.gouv.fr	DRDJSCS ACAL	
+www.champagne-ardenne.ecologie.gouv.fr	Page protégée	
+www.champagne-ardenne.equipement.gouv.fr	Page protégée	
+www.cheminsdememoire.gouv.fr	666 Bad Request	
+www.cifp-nancy.equipement.gouv.fr	CVRH de Nancy	
+www.circulaires.gouv.fr	Instructions et circulaires récentes : Legifrance	
+www.civs.gouv.fr	Accueil - CIVS	
+www.cjn.justice.gouv.fr	Demande d'extrait de casier judiciaire (bulletin n&deg;  3) - Casier judiciaire national - Ministère de la Justice         	
+www.cnc.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.cnig.gouv.fr	CNIG	
+www.cnle.gouv.fr	Le site du CNLE	
+www.cnml.gouv.fr	CNML (Conseil national des missions locales) - Instances rattachées - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.cnps.developpement-durable.gouv.fr	CNPS - centre national des Ponts de Secours	
+www.cnps.equipement.gouv.fr	CNPS - centre national des Ponts de Secours	
+www.coe.gouv.fr	COE	
+www.collectivites.mayenne.developpement-durable.gouv.fr	Site Extranet de la Direction Départementale des Territoires de la Mayenne dédié aux collectivités du département	
+www.colloc.bercy.gouv.fr	Collectivités locales : || Le portail de l'Etat au service des collectivités	
+www.colloquescgedd.developpement-durable.gouv.fr	Événements - CGEDD	
+www.competitivite.gouv.fr	Les pôles de Compétitivité - Accueil - Moteur de croissance et d'emploi	
+www.concours.agriculture.gouv.fr	Accueil	
+www.concours.developpement-durable.gouv.fr	Recrutement et Concours	
+www.conseil-constitutionnel.fr	Conseil Constitutionnel - Page d'accueil     	
+www.conseil-etat.fr	Le Conseil d'État : Accueil	
+www.consultations-publiques.developpement-durable.gouv.fr	Les consultations publiques du ministère du Développement durable	
+www.contrat-de-generation.gouv.fr	Contrat de génération - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.contrats-alternance.gouv.fr	le portail de l'alternance - Espace - Accueil	
+www.corse-du-sud.gouv.fr	L'Internet des services de l'Etat en Corse	
+www.corse.developpement-durable.gouv.fr	Le portail Internet de la DREAL Corse	
+www.corse.direccte.gouv.fr	Direccte Corse	
+www.cote-d-or.equipement-agriculture.gouv.fr	Services Etat Côte-d'Or	
+www.cote-dor.gouv.fr	Services Etat Côte-d'Or	
+www.cote-dor.pref.gouv.fr	Services Etat Côte-d'Or	
+www.creps-pdl.sports.gouv.fr	Ø  Ø ØzØzØ      Ø  z zz   z 	
+www.creps-toulouse-midi-pyrenees.jeunesse-sports.gouv.fr	CREPS de Toulouse Midi-Pyrénées	
+www.creps-toulouse.jeunesse-sports.gouv.fr	CREPS de Toulouse Midi-Pyrénées	
+www.creps-wattignies.jeunesse-sports.gouv.fr	Creps Wattignies	
+www.culture.gouv.fr	Accueil - Ministère de la Culture et de la Communication	
+www.culturecommunication.gouv.fr	Accueil - Ministère de la Culture et de la Communication	
+www.cvrh-macon.developpement-durable.gouv.fr	internet CVRH Mâcon	
+www.cvrh-nancy.developpement-durable.gouv.fr	CVRH de Nancy	
+www.dac-s.aviation-civile.gouv.fr	Redirection en htm	
+www.data.gouv.fr	Data.gouv.fr	
+www.datar.gouv.fr	Portail de l'Aménagement du Territoire : 	
+www.ddaf.seine-et-marne.agriculture.gouv.fr	Maintenance.html	
+www.ddjs-cher.jeunesse-sports.gouv.fr	Bienvenue sur nos serveurs : IDWEB - Création, hébergement et référencement de site internet à Bourges, Châteauroux, Orléans et Nevers	
+www.ddjs-deux-sevres.jeunesse-sports.gouv.fr	Nouveau	
+www.ddjs-loire.jeunesse-sports.gouv.fr	Direction Départementale de la Jeunesse et des Sports de la Loire	
+www.ddjs-manche.jeunesse-sports.gouv.fr	Serveur OVH	
+www.ddjs-mayenne.jeunesse-sports.gouv.fr	DDCSPP - Service jeunesse, sports et vie associative de la Mayenne	
+www.ddjs-orne.jeunesse-sports.gouv.fr	Serveur OVH	
+www.ddm.gouv.fr	La direction générale des médias et des industries culturelles - Ministère de la Culture et de la Communication	
+www.ddtefp22.travail.gouv.fr	Côtes d'Armor  - Direccte Bretagne	
+www.ddtefp29.travail.gouv.fr	Finistère - Direccte Bretagne	
+www.ddtefp35.travail.gouv.fr	Ille-et-Vilaine - Direccte Bretagne	
+www.ddtefp56.travail.gouv.fr	Morbihan - Direccte Bretagne	
+www.declarationof.travail.gouv.fr	Portail Officiel de la télédéclaration de DA et BPF - Accueil	
+www.defense.gouv.fr	Ministère de la Défense	
+www.delegation.internet.gouv.fr	Usages de l'Internet : Direction Générale des Entreprises (DGE)	
+www.dependance.gouv.fr	Personnes âgées - Affaires sociales - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.derives-sectes.gouv.fr	Bienvenue sur le site de la Miviludes : Miviludes	
+www.developpement-durable.gouv.fr	Ministère du Développement durable	
+www.developpementdurable.gouv.fr	Ministère du Développement durable	
+www.dgccrf.bercy.gouv.fr	DGCCRF - Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes -  DGCCRF : Le portail des ministères économiques et financiers	
+www.dgefp.bercy.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.dglf.culture.gouv.fr	Langue française et langues de France - Ministère de la Culture et de la Communication	
+www.dglflf.culture.gouv.fr	Langue française et langues de France - Ministère de la Culture et de la Communication	
+www.dgmic.culture.gouv.fr	La direction générale des médias et des industries culturelles - Ministère de la Culture et de la Communication	
+www.dgtpe.bercy.gouv.fr	Site Internet de la direction générale du Trésor 	
+www.diact.gouv.fr	Page non trouvée - Ministère du Logement, de l'Égalité des territoires et de la Ruralité	
+www.dicod.defense.gouv.fr	Ministère de la Défense	
+www.dila.premier-ministre.gouv.fr	DILA - La référence au service du public	
+www.dir.atlantique.developpement-durable.gouv.fr	Internet DIR Atlantique	
+www.dir.centre-est.developpement-durable.gouv.fr	internet DIR Centre-Est	
+www.dir.centre-ouest.developpement-durable.gouv.fr	DiR Centre-Ouest - direction interdépartementale des Routes Centre-Ouest	
+www.dir.est.developpement-durable.gouv.fr	internet DIR Est	
+www.dir.ile-de-france.developpement-durable.gouv.fr	Direction des routes Île-de-France	
+www.dir.massif-central.developpement-durable.gouv.fr	DIR Massif Central	
+www.dir.mediterranee.developpement-durable.gouv.fr	Internet Enroute Méditerranée	
+www.dir.nord-ouest.developpement-durable.gouv.fr	internet DIR Nord-Ouest	
+www.dir.ouest.developpement-durable.gouv.fr	Direction interdépartementale des routes Ouest - DIR Ouest	
+www.dir.sud-ouest.developpement-durable.gouv.fr	Direction Interdépartementale des Routes du Sud-Ouest (DIRSO)	
+www.direccte.gouv.fr	Direccte National	
+www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr	D.I.R.M. - NAMO	
+www.dirm.sud-atlantique.developpement-durable.gouv.fr	Direction Interrégionale de la mer Sud-Atlantique	
+www.dmp.gouv.fr	Request Rejected	
+www.donnees.aquitaine.developpement-durable.gouv.fr		
+www.donnees.basse-normandie.developpement-durable.gouv.fr	Effectuer une recherche [DREAL Basse-Normandie]	
+www.donnees.champagne-ardenne.developpement-durable.gouv.fr	Site des données - DREAL Champagne-Ardenne	
+www.donnees.midi-pyrenees.developpement-durable.gouv.fr	DREAL Midi-Pyrénées	
+www.donnees.paca.developpement-durable.gouv.fr	Internet DREAL PACA	
+www.dotations-dgcl.interieur.gouv.fr	DGCL - Accueil	
+www.douane.gouv.fr	Douane.gouv.fr - Site officiel de la douane française 	
+www.draaf.champagne-ardenne.agriculture.gouv.fr	Oups...	
+www.draaf.lorraine.agriculture.gouv.fr	Oups...	
+www.draaf.midi-pyrenees.agriculture.gouv.fr	Oups...	
+www.draaf.rhone-alpes.agriculture.gouv.fr	Oups...	
+www.draf.auvergne.agriculture.gouv.fr	Oups...	
+www.draf.ile-de-france.agriculture.gouv.fr	Oups...	
+www.draf.poitou-charentes.agriculture.gouv.fr	Oups...	
+www.drdjs-basse-normandie.jeunesse-sports.gouv.fr	Serveur OVH	
+www.drdjs-centre.jeunesse-sports.gouv.fr	Bienvenue sur nos serveurs : IDWEB - Création, hébergement et référencement de site internet à Bourges, Châteauroux, Orléans et Nevers	
+www.drdjs-franche-comte.jeunesse-sports.gouv.fr	Nouvelle adresse URL	
+www.drdjs-languedoc-roussillon.jeunesse-sports.gouv.fr	DRJSCS Languedoc-Roussillon-Midi-Pyrénées	
+www.drdjs-lorraine.jeunesse-sports.gouv.fr	Actualités	
+www.drdjs-picardie.jeunesse-sports.gouv.fr	DRJSCS Nord-Pas-de-Calais-Picardie	
+www.drdjs-poitou-charentes.jeunesse-sports.gouv.fr	DR-D-JSCS Aquitaine-Limousin-Poitou-Charentes	
+www.dre.basse-normandie.developpement-durable.gouv.fr	DREAL Basse-Normandie	
+www.dre.champagne-ardenne.developpement-durable.gouv.fr	Page protégée	
+www.dre.picardie.developpement-durable.gouv.fr	Internet de la DREAL Picardie	
+www.drees.sante.gouv.fr	Études et statistiques - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.driea.ile-de-france.developpement-durable.gouv.fr	DRIEA Île-de-France - Direction régionale et interdépartementale de l'équipement et de l'aménagement d'Île-de-France	
+www.driee.ile-de-france.developpement-durable.gouv.fr	DRIEE Ile-de-France	
+www.drihl.ile-de-france.developpement-durable.gouv.fr	DRIHL Ile-de-France	
+www.drjscs.gouv.fr	DRDJSCS Portail National	
+www.drogues.gouv.fr	Grand public : Mildeca	
+www.droitsdesjeunes.gouv.fr	Le site des droits des jeunes	
+www.drome.equipement-agriculture.gouv.fr	Site IDE de la Drome	
+www.drome.equipement.gouv.fr	Site IDE de la Drome	
+www.drome.gouv.fr	Site IDE de la Drome	
+www.drome.pref.gouv.fr	Site IDE de la Drome	
+www.drtefp-bretagne.travail.gouv.fr	Direccte Bretagne	
+www.drtefp-paysdelaloire.travail.gouv.fr		
+www.eaupotable.sante.gouv.fr	Qualité de l'eau potable - Eaux - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.ecole-affaires-maritimes.equipement.gouv.fr	Maintenance.html	
+www.ecoledelaforet.agriculture.gouv.fr	À l'École de la Forêt	
+www.ecologie.gouv.fr	Ministère du Développement durable	
+www.economie.gouv.fr	Le portail des ministères économiques et financiers : Le portail des ministères économiques et financiers	
+www.ecoquartiers.developpement-durable.gouv.fr	EcoQuartier - Ministère du Développement durable	
+www.ecoresponsabilite.ecologie.gouv.fr	[Eco-responsabilité] 	
+www.education.gouv.fr	Accueil - Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche	
+www.eic.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.elysee.fr	Accueil - Présidence de la République	
+www.emploi.agriculture.gouv.fr	Oups...	
+www.emploi.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.emploidesseniors.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.enfanceetcultures.culture.gouv.fr	Enfance et cultures	
+www.enlevement-parental.justice.gouv.fr	Justice / Portail / Enlèvement parental	
+www.enroute.centre-est.developpement-durable.gouv.fr	internet DIR Centre-Est	
+www.enroute.centre-est.equipement.gouv.fr	internet DIR Centre-Est	
+www.enroute.centre-ouest.developpement-durable.gouv.fr	DiR Centre-Ouest - direction interdépartementale des Routes Centre-Ouest	
+www.enroute.centre-ouest.equipement.gouv.fr	DiR Centre-Ouest - direction interdépartementale des Routes Centre-Ouest	
+www.enroute.equipement.gouv.fr	Index of /	
+www.enroute.est.developpement-durable.gouv.fr	internet DIR Est	
+www.enroute.est.equipement.gouv.fr	internet DIR Est	
+www.enroute.ile-de-france.developpement-durable.gouv.fr	Direction des routes Île-de-France	
+www.enroute.ile-de-france.equipement.gouv.fr	Direction des routes Île-de-France	
+www.enroute.massif-central.developpement-durable.gouv.fr	DIR Massif Central	
+www.enroute.massif-central.equipement.gouv.fr	DIR Massif Central	
+www.enroute.mediterranee.developpement-durable.gouv.fr	Internet Enroute Méditerranée	
+www.enroute.mediterranee.equipement.gouv.fr	Internet Enroute Méditerranée	
+www.enroute.nord-ouest.developpement-durable.gouv.fr	internet DIR Nord-Ouest	
+www.enroute.ouest.developpement-durable.gouv.fr	Direction interdépartementale des routes Ouest - DIR Ouest	
+www.enroute.ouest.equipement.gouv.fr	Direction interdépartementale des routes Ouest - DIR Ouest	
+www.enroute.sud-ouest.developpement-durable.gouv.fr	Direction Interdépartementale des Routes du Sud-Ouest (DIRSO)	
+www.enseignementsup-recherche.gouv.fr	Accueil - ESR : enseignementsup-recherche.gouv.fr	
+www.entreprises.gouv.fr	Direction Générale des Entreprises (DGE) : Direction Générale des Entreprises (DGE)	
+www.environnement.gouv.fr	Ministère du Développement durable	
+www.equipement.gouv.fr	Ministère du Développement durable	
+www.equipementsdelaroute.developpement-durable.gouv.fr	equipements de la route	
+www.equipementsdelaroute.equipement.gouv.fr	equipements de la route	
+www.esat.terre.defense.gouv.fr	Site Maintenance	
+www.etrs.terre.defense.gouv.fr	Site Maintenance	
+www.etudiant.gouv.fr	Accueil - etudiant.gouv.fr	
+www.euro.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.europe-en-france.gouv.fr	Europe en France, le portail des Fonds européens 	
+www.europe.gouv.fr	Archives Europe	
+www.evaluation.gouv.fr	Le portail de l'évaluation des politiques publiques	
+www.experimentation.jeunes.gouv.fr	Le Fonds d'Expérimentation pour la Jeunesse : Ministère de la Ville, de la Jeunesse et des Sports	
+www.famille-enfance.gouv.fr	Famille-Enfance - Affaires sociales - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.famille.gouv.fr	Famille-Enfance - Affaires sociales - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.fetedelascience.education.gouv.fr	Accueil - Fête de la science	
+www.financement-logement-social.territoires.gouv.fr	Financement du logement social	
+www.fonction-publique.gouv.fr	Portail de la Fonction publique	
+www.forages-domestiques.gouv.fr	Les forages domestiques - Ministère du Développement durable	
+www.forum.gouv.fr	Forum.gouv.fr - Forum de discussion sur des sujets de société - Gouvernement	
+www.franche-comte.developpement-durable.gouv.fr	DREAL Franche-Comté	
+www.franche-comte.direccte.gouv.fr	Direccte Bourgogne-Franche-Comté	
+www.franche-comte.drjscs.gouv.fr	DRDJSCS Bourgogne-Franche-Comté	
+www.fse.gouv.fr	FSE - Fonds Social Européen en France	
+www.gendarmerie.interieur.gouv.fr	Gendarmerie nationale - Accueil	
+www.geoportail.gouv.fr	Le portail des territoires et des citoyens - Géoportail	
+www.ggm.drire.gouv.fr	DRIRE Antilles-Guyane - Direction Régionale de l'Industrie de la Recherche et de l'Environnement	
+www.gouv.nc	Gouvernement de la Nouvelle-Calédonie	
+www.gouvernement.fr	Accueil : Site officiel du Gouvernement | République Française | Gouvernement.fr	
+www.gouvernement.gouv.fr	Accueil : Site officiel du Gouvernement | République Française | Gouvernement.fr	
+www.grippe-aviaire.gouv.fr	Pandémie grippale : Portail interministériel de prévention des Risques majeurs	
+www.grippe.sante.gouv.fr	Grippes - Maladies infectieuses - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.grippeaviaire.gouv.fr	Pandémie grippale : Portail interministériel de prévention des Risques majeurs	
+www.guadeloupe.developpement-durable.gouv.fr	DEAL Guadeloupe	
+www.guadeloupe.dieccte.gouv.fr	Dieccte Guadeloupe	
+www.guyane.developpement-durable.gouv.fr	DEAL GUYANE	
+www.guyane.dieccte.gouv.fr	Direccte Guyane	
+www.guyane.drjscs.gouv.fr	DJSCS GUYANE	
+www.handicaps.sports.gouv.fr	Accueil	
+www.handiguide.gouv.fr	Handiguide des Sports : Guide national des structures sportives accueillant des personnes en situation de handicap	
+www.handiguide.sports.gouv.fr	Handiguide des Sports : Guide national des structures sportives accueillant des personnes en situation de handicap	
+www.haut-rhin.equipement.gouv.fr	Maintenance.html	
+www.haute-corse.gouv.fr	Services État Haute-Corse	
+www.haute-loire.gouv.fr	Internet des Services de l'Etat en Haute-Loire	
+www.haute-loire.pref.gouv.fr	Internet des Services de l'Etat en Haute-Loire	
+www.haute-normandie.culture.gouv.fr	Drac Normandie - Ministère de la Culture et de la Communication	
+www.haute-normandie.developpement-durable.gouv.fr	internet DREAL Haute-Normandie	
+www.haute-normandie.direccte.gouv.fr	Direccte Normandie	
+www.hautes-alpes.developpement-durable.gouv.fr	Internet Services de l'Etat en Hautes-Alpes	
+www.hautes-alpes.equipement-agriculture.gouv.fr	Internet Services de l'Etat en Hautes-Alpes	
+www.hautes-alpes.gouv.fr	Internet Services de l'Etat en Hautes-Alpes	
+www.hautes-alpes.pref.gouv.fr	Internet Services de l'Etat en Hautes-Alpes	
+www.hautes-pyrenees.equipement.gouv.fr	des Hautes-Pyrénées	
+www.hautes-pyrenees.gouv.fr	des Hautes-Pyrénées	
+www.hautes-pyrenees.pref.gouv.fr	des Hautes-Pyrénées	
+www.hci.gouv.fr	- Haut Conseil à l'intégration	
+www.horizon2020.gouv.fr	Accueil - Horizon 2020	
+www.idf.direccte.gouv.fr	Direccte Ile-de-France	
+www.ie.bercy.gouv.fr	SCIE - Service de Coordination à l'Intelligence Economique : Le portail des ministères économiques et financiers	
+www.ifore.developpement-durable.gouv.fr	internet IFORE	
+www.ifore.ecologie.gouv.fr	internet IFORE	
+www.igas.gouv.fr	IGAS - Inspection générale des affaires sociales	
+www.igf.finances.gouv.fr	Inspection Générale des Finances - IGF - Accueil	
+www.ile-de-france.biep.gouv.fr	Briep Ile de France	
+www.ile-de-france.direccte.gouv.fr	Direccte Ile-de-France	
+www.immigration.gouv.fr	Accueil  - Immigration, asile, accueil et accompagnement des étrangers en France - Ministère de l'Intérieur	
+www.immigration.interieur.gouv.fr	Accueil  - Immigration, asile, accueil et accompagnement des étrangers en France - Ministère de l'Intérieur	
+www.impots.gouv.fr	Impots.gouv.fr - Accueil	
+www.inao.gouv.fr	Institut national de l'origine et de la qualité 	
+www.infoma.agriculture.gouv.fr	Site de l'INFOMA	
+www.innovation.gouv.fr	Innovation - ESR : enseignementsup-recherche.gouv.fr	
+www.inps.interieur.gouv.fr	INPS / Etablissements publics / Organisation - Police nationale - Ministère de l'Intérieur	
+www.installationsclassees.developpement-durable.gouv.fr	Accueil - Inspection des Installations Classées	
+www.institut.minefi.gouv.fr	IGPDE - Institut de gestion publique et du développement économique : Le portail des ministères économiques et financiers	
+www.intefp-foad.travail.gouv.fr	Formation à distance - 	
+www.intefp-sstfp.travail.gouv.fr	SSTFP -- Santé - Sécurité au Travail dans les Fonctions Publiques	
+www.intelligence-economique.gouv.fr	Délégation interministérielle à l'intelligence économique	
+www.interieur.gouv.fr	Accueil  - Ministère de l'Intérieur	
+www.internat.education.gouv.fr	Annuaire des internats - Ministère de l'Éducation nationale - Accueil	
+www.internet.gouv.fr	Internet en France	
+www.interventions-precoces.sante.gouv.fr	Famille-Enfance - Affaires sociales - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.ira-metz.gouv.fr	Accueil : IRA de Metz	
+www.ivg.social-sante.gouv.fr	IVG : informations sur l'interruption volontaire de grossesse - Ministère de la Santé - www.ivg.social-sante.gouv.fr	
+www.jardiner-autrement.gouv.fr	Comment jardiner autrement ? - Ministère du Développement durable	
+www.jeunes.gouv.fr	Jeunes.gouv.fr : Ministère de la Ville, de la Jeunesse et des Sports	
+www.jeunesse-vie-associative.gouv.fr	Jeunes.gouv.fr : Ministère de la Ville, de la Jeunesse et des Sports	
+www.jeunesse.gouv.fr	Jeunes.gouv.fr : Ministère de la Ville, de la Jeunesse et des Sports	
+www.journal-officiel.gouv.fr	Journal Officiel - Accueil	
+www.juridoc.gouv.nc	Documentation juridique NC	
+www.justice.gouv.fr	Justice / Portail	
+www.labeau.ecologie.gouv.fr	Labeau - Gestion des Agréments Laboratoires	
+www.ladocfrancaise.gouv.fr	La Documentation française	
+www.landes.equipement-agriculture.gouv.fr	Services de l'Etat  dans les LANDES	
+www.landes.gouv.fr	Services de l'Etat  dans les LANDES	
+www.landes.pref.gouv.fr	Services de l'Etat  dans les LANDES	
+www.languedoc-roussillon.developpement-durable.gouv.fr	Site INTERNET de la DREAL Languedoc-Roussillon	
+www.languedoc-roussillon.direccte.gouv.fr	Direccte LANGMP	
+www.languedoc-roussillon.drjscs.gouv.fr	DRJSCS Languedoc-Roussillon-Midi-Pyrénées	
+www.languedoc-roussillon.jeunesse-sports.gouv.fr	Association éducative, sportive et d'entraide sociale	
+www.legifrance.gouv.fr	Accueil : Légifrance, le service public de l'accès au droit - Accueil	
+www.lesemploisdavenir.gouv.fr	Emplois d'avenir - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.limousin.culture.gouv.fr	Drac Aquitaine - Limousin - Poitou-Charentes - Ministère de la Culture et de la Communication	
+www.limousin.developpement-durable.gouv.fr	DREAL Limousin	
+www.limousin.direccte.gouv.fr	Direccte Aquitaine-Limousin-Poitou-Charentes	
+www.limousin.equipement.gouv.fr	DREAL Limousin	
+www.logement.gouv.fr	Ministère du Logement, de l'Égalité des territoires et de la Ruralité	
+www.loi-penitentiaire.justice.gouv.fr	Justice / Textes et réformes / Loi du 24/11/09 appelée "loi pénitentiaire"	
+www.loi.ecole.gouv.fr	La refondation de l'École de la République - Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche	
+www.loire.equipement.gouv.fr	Les services de l'Etat dans la Loire	
+www.loire.gouv.fr	Les services de l'Etat dans la Loire	
+www.loire.pref.gouv.fr	Les services de l'Etat dans la Loire	
+www.lorraine.biep.gouv.fr	BRIEP Lorraine	
+www.lorraine.developpement-durable.gouv.fr	Direction Régionale de l'Environnement, de l'Aménagement et du Logement de Lorraine	
+www.lorraine.direccte.gouv.fr	Direccte Alsace-Champagne-Ardenne-Lorraine	
+www.lorraine.drjscs.gouv.fr	DRDJSCS ACAL	
+www.lorraine.ecologie.gouv.fr	Direction Régionale de l'Environnement, de l'Aménagement et du Logement de Lorraine	
+www.lorraine.environnement.gouv.fr	Direction Régionale de l'Environnement, de l'Aménagement et du Logement de Lorraine	
+www.lorraine.travail.gouv.fr	Accueil DIRECCTE Lorraine	
+www.lot-et-garonne.gouv.fr	internet services Etat du Lot-et-Garonne	
+www.lot-et-garonne.pref.gouv.fr	internet services Etat du Lot-et-Garonne	
+www.lot.equipement.gouv.fr	Services de l'Etat dans le Lot	
+www.lot.gouv.fr	Services de l'Etat dans le Lot	
+www.lot.pref.gouv.fr	Services de l'Etat dans le Lot	
+www.loup.developpement-durable.gouv.fr	Mission loup - DREAL Rhône-Alpes 	
+www.macyberautoentreprise.pme.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.maine-et-loire.equipement-agriculture.gouv.fr	Services Etat Maine-et-Loire	
+www.maine-et-loire.gouv.fr	Services Etat Maine-et-Loire	
+www.mainh.sante.gouv.fr	Site : ANAP.FR	
+www.mariage.gouv.fr	Justice / Vos droits et démarches / Mariage en France	
+www.martinique.developpement-durable.gouv.fr	DEAL de la Martinique	
+www.martinique.dieccte.gouv.fr	Direccte Martinique	
+www.massif-central.datar.gouv.fr	Powow Consulting - Accès Messagerie	
+www.mayotte.dieccte.gouv.fr	Direccte Mayotte	
+www.mecenat.culture.gouv.fr	Mécénat - Ministère de la Culture et de la Communication	
+www.mediateur-de-la-republique.fr	Droits des usagers des services publics : Le Défenseur des Droits	
+www.mediatheque-patrimoine.culture.gouv.fr	Accueil - Médiathèque de l&apos; architecture et du patrimoine	
+www.medicaments.social-sante.gouv.fr	Médicaments - Ministère des Affaires sociales, de la Santé et des Droits des femmes - www.sante.gouv.fr	
+www.memoiredeshommes.sga.defense.gouv.fr	666 Bad Request	
+www.mer.gouv.fr	Mer et littoral - Ministère du Développement durable	
+www.mesdemarches.agriculture.gouv.fr	Mes Démarches	
+www.metiers.internet.gouv.fr	Site gouvernemental - Découvrez les métiers du web et du numérique sur le Portail des métiers de l'Internet	
+www.metiers.justice.gouv.fr	Justice / Métiers et concours	
+www.metiers.santesolidarites.gouv.fr	Métiers et concours - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.metropolisation-mediterranee.equipement.gouv.fr	Internet DREAL PACA	
+www.midi-pyrenees.biep.gouv.fr	BRIEP Midi-Pyrenees	
+www.midi-pyrenees.developpement-durable.gouv.fr	Site INTERNET de la DREAL Midi-Pyrénées	
+www.midi-pyrenees.direccte.gouv.fr	Direccte LANGMP	
+www.midi-pyrenees.drjscs.gouv.fr	DRJSCS Languedoc-Roussillon-Midi-Pyrénées	
+www.midi-pyrenees.equipement.gouv.fr	Ministère Equipement	
+www.midi-pyrenees.jeunesse-sports.gouv.fr	DRJSCS Languedoc-Roussillon-Midi-Pyrénées	
+www.mieist.bercy.gouv.fr	Le Médiateur des entreprises	
+www.miviludes.gouv.fr	Bienvenue sur le site de la Miviludes : Miviludes	
+www.mjspaca.jeunesse-sports.gouv.fr	Bienvenue sur nos serveurs : IDWEB - Création, hébergement et référencement de site internet à Bourges, Châteauroux, Orléans et Nevers	
+www.moderfie.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.modernisation.gouv.fr	Modernisation : Le portail de la modernisation de l'action publique	
+www.moncompteformation.gouv.fr	Mon compte formation	
+www.msr25.doubs.equipement.gouv.fr	Maison de la Sécurité Routière du Doubs	
+www.msr83.var.equipement.gouv.fr	Maison de la sécurité routière du Var - MSR83	
+www.musee-prisons.justice.gouv.fr	Justice / Portail / Histoire des prisons	
+www.nanomicro.recherche.gouv.fr	Accueil - ESR : enseignementsup-recherche.gouv.fr	
+www.nievre.developpement-durable.gouv.fr	Les services de l'État dans la Nièvre	
+www.nievre.equipement-agriculture.gouv.fr	Les services de l'État dans la Nièvre	
+www.nievre.equipement.gouv.fr	Les services de l'État dans la Nièvre	
+www.nievre.gouv.fr	Les services de l'État dans la Nièvre	
+www.nievre.pref.gouv.fr	Les services de l'État dans la Nièvre	
+www.nonauharcelement.education.gouv.fr	Non au harcèlement : Appelez le 3020	
+www.nord-pas-de-calais.developpement-durable.gouv.fr	DREAL Nord - Pas-de-Calais - Direction Régionale de l'Environnement de l'Aménagement et du Logement	
+www.nord-pas-de-calais.direccte.gouv.fr	Direccte PICA-NPC	
+www.nord-pas-de-calais.drjscs.gouv.fr	DRJSCS Nord-Pas-de-Calais-Picardie	
+www.nouveaupermisdeconstruire.gouv.fr	Maintenance.html	
+www.nouvelleuniversite.gouv.fr	Autonomie des universités - ESR : enseignementsup-recherche.gouv.fr	
+www.numerique.gouv.fr		
+www.observation-urbaine.certu.equipement.gouv.fr	Connaissance des territoires et évaluation - Direction technique Territoires et ville	
+www.observatoire-des-territoires.gouv.fr	L'Observatoire des Territoires	
+www.observatoire-pesticides.gouv.fr	Observatoire des Résidus de Pesticides	
+www.observatoire.savoie.equipement-agriculture.gouv.fr	Observatoire des Territoires de la Savoie	
+www.ogm.gouv.fr	Ministére de l'agriculture, de l'agroalimentaire et de la forêt	
+www.oncfs.gouv.fr	Oncfs	
+www.oned.gouv.fr	Accueil : Observatoire National de L'Enfance en Danger | Oned 	
+www.onpes.gouv.fr	Observatoire National de la Pauvreté et de l'Exclusion Sociale	
+www.orne.equipement-agriculture.gouv.fr	Internet départemental de l'État dans l'Orne	
+www.orne.gouv.fr	Internet départemental de l'État dans l'Orne	
+www.orne.pref.gouv.fr	Internet départemental de l'État dans l'Orne	
+www.ours.ecologie.gouv.fr	Page protégée	
+www.outre-mer.gouv.fr	Les Outre-Mer	
+www.paca.developpement-durable.gouv.fr	Internet DREAL PACA	
+www.paca.direccte.gouv.fr	Direccte Provence - Alpes - Côte d'Azur	
+www.paca.ecologie.gouv.fr	Internet DREAL PACA	
+www.paca.equipement.gouv.fr	Internet DREAL PACA	
+www.pandemie-grippale.gouv.fr	Pandémie grippale : Portail interministériel de prévention des Risques majeurs	
+www.parc-marin-iroise.gouv.fr	Parc naturel marin - Iroise	
+www.parlement.fr	Parlement français	
+www.pays-de-la-loire.developpement-durable.gouv.fr	DREAL des Pays de la Loire	
+www.pays-de-la-loire.direccte.gouv.fr	Direccte Pays-de-la-Loire	
+www.pays-de-la-loire.drjscs.gouv.fr	DRDJSCS des Pays de la Loire	
+www.pays-de-la-loire.equipement.gouv.fr	DREAL des Pays de la Loire	
+www.pce.dgi.minefi.gouv.fr	TVA e-Service	
+www.pensions.bercy.gouv.fr	pensions.bercy.gouv.fr : Le site du régime des retraites de l'Etat	
+www.pensions.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.performance-publique.budget.gouv.fr	Forum de la performance	
+www.pfrh.lorraine.pref.gouv.fr	Accueil Plateforme RH 	
+www.picardie.developpement-durable.gouv.fr	Internet de la DREAL Picardie	
+www.picardie.direccte.gouv.fr	Direccte PICA-NPC	
+www.picardie.drjscs.gouv.fr	DRJSCS Nord-Pas-de-Calais-Picardie	
+www.plan-alzheimer.gouv.fr	Plan Alzheimer 2008 - 2012	
+www.plan-antibiotiques.sante.gouv.fr	Plan antibiotiques	
+www.plan-cancer.gouv.fr	Plan cancer 2014-2019 - Ref : PLANK14 | Institut National Du Cancer	
+www.platines.sante.gouv.fr	Scope santé - Qualité des hôpitaux & cliniques	
+www.poitou-charentes.culture.gouv.fr	Drac Aquitaine - Limousin - Poitou-Charentes - Ministère de la Culture et de la Communication	
+www.poitou-charentes.developpement-durable.gouv.fr	Internet DREAL Poitou-Charentes	
+www.poitou-charentes.direccte.gouv.fr	Direccte Aquitaine-Limousin-Poitou-Charentes	
+www.poitou-charentes.drjscs.gouv.fr	DR-D-JSCS Aquitaine-Limousin-Poitou-Charentes	
+www.pollutionsindustrielles.ecologie.gouv.fr		
+www.polynesie-francaise.pref.gouv.fr	Accueil - Portail de l'Etat en Polynésie française	
+www.porte-parole.justice.gouv.fr	Justice / Presse	
+www.portic.developpement-durable.gouv.fr	INERIS - Institut National de l'Environnement Industriel et des Risques - Maîtriser le risque pour un développement durable	
+www.pour-les-personnes-agees.gouv.fr	Pour les personnes âgées : Portail national d'information pour l'autonomie des personnes âgées et l'accompagnement de leurs proches	
+www.ppol-taxi.interieur.gouv.fr	Rendez vous Taxi	
+www.ppp.bercy.gouv.fr	PPP - Accueil : Le portail des ministères économiques et financiers	
+www.ppp.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.pratiques-commerciales.minefi.gouv.fr	CEPC - Commission d'examen des pratiques commerciales (CEPC ) : Le portail des ministères économiques et financiers	
+www.pre-plainte-en-ligne.gouv.fr	pré-plainte	
+www.prefecture-police-paris.interieur.gouv.fr	Portail - La préfecture de Police	
+www.prefecturedepolice.interieur.gouv.fr	Portail - La préfecture de Police	
+www.premar-atlantique.gouv.fr	Préfecture maritime Atlantique	
+www.premar-manche.gouv.fr	Préfecture maritime de la Manche et de la mer du Nord	
+www.premar-mediterranee.gouv.fr	Préfecture maritime de la Méditerranée	
+www.premier-ministre.gouv.fr	Accueil : Site officiel du Gouvernement | République Française | Gouvernement.fr	
+www.premierministre.gouv.fr	Accueil : Site officiel du Gouvernement | République Française | Gouvernement.fr	
+www.presse.justice.gouv.fr	Justice / Presse	
+www.prison.justice.gouv.fr	Justice / Portail / Prison et réinsertion	
+www.prix-carburants.gouv.fr	Prix des carburants en France, site gouvernemental	
+www.prospective-numerique.gouv.fr		
+www.prudhommes.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.ptz-plus.gouv.fr	Le prêt à taux zéro "PTZ" - Ministère du Logement, de l'Égalité des territoires et de la Ruralité	
+www.puy-de-dome.equipement-agriculture.gouv.fr	Internet des Services de l'Etat du Puy-de-Dôme	
+www.puy-de-dome.equipement.gouv.fr	Internet des Services de l'Etat du Puy-de-Dôme	
+www.puy-de-dome.gouv.fr	Internet des Services de l'Etat du Puy-de-Dôme	
+www.puy-de-dome.pref.gouv.fr	Internet des Services de l'Etat du Puy-de-Dôme	
+www.qualite-tourisme.gouv.fr	Accueil Qualité Tourisme  : Direction Générale des Entreprises (DGE)	
+www.qualitetransports.gouv.fr	Qualité Transports - Autorité de la qualité de service dans les transports (AQST) 	
+www.radiofrequences.gouv.fr	Site Radiofréquences	
+www.ram2006.equipement.gouv.fr	RAM 2006	
+www.recherche.gouv.fr	Accueil - ESR : enseignementsup-recherche.gouv.fr	
+www.recrutement.terre.defense.gouv.fr	Site officiel du recrutement de l'Armée de Terre - Accueil	
+www.renovation-info-service.gouv.fr	J'éco-rénove j'économise I Un seul n° à votre service 0 810 140 240	
+www.res.jeunesse-sports.gouv.fr	Recensement des équipements sportifs, espaces et sites de pratiques 	
+www.res.sports.gouv.fr	Recensement des équipements sportifs, espaces et sites de pratiques 	
+www.reserves.terre.defense.gouv.fr	Ministère de la Défense	
+www.restructurations.defense.gouv.fr	666 Bad Request	
+www.resultats.prudhommes.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.retraites.gouv.fr	Réforme des retraites - Grands dossiers - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.reunion.developpement-durable.gouv.fr	DEAL Réunion - Direction de l'Environnement, de l'Aménagement et du Logement de La Réunion	
+www.reunion.dieccte.gouv.fr	Direccte La Réunion	
+www.reunion.drire.gouv.fr	DRIRE Réunion - Direction Régionale de l'Industrie de la Recherche et de l'Environnement	
+www.reunion.equipement.gouv.fr	DEAL Réunion - Direction de l'Environnement, de l'Aménagement et du Logement de La Réunion	
+www.reunion.gouv.fr	Les services de l'Etat à La Réunion	
+www.reunion.pref.gouv.fr	Les services de l'Etat à La Réunion	
+www.rhone-alpes.culture.gouv.fr		
+www.rhone-alpes.developpement-durable.gouv.fr	DREAL Rhône-Alpes 	
+www.rhone-alpes.direccte.gouv.fr	Direccte AUVRA	
+www.rhone-alpes.drjscs.gouv.fr	DRDJSCS Auvergne-Rhône-Alpes	
+www.rhone-alpes.ecologie.gouv.fr	DREAL Rhône-Alpes 	
+www.rhone-alpes.equipement.gouv.fr	DREAL Rhône-Alpes 	
+www.rhone-alpes.jeunesse-sports.gouv.fr	DRJSCS Rhône-Alpes	
+www.ri92.terre.defense.gouv.fr	92ème Régiment d'Infanterie	
+www.rif.mer.developpement-durable.gouv.fr	le RIF ou Registre International Français	
+www.rif.mer.equipement.gouv.fr	le RIF ou Registre International Français	
+www.risques.aquitaine.gouv.fr	Prévention des Risques Accidentels: Accueil	
+www.risques.auvergne.developpement-durable.gouv.fr	Prévention des Risques Accidentels: Accueil	
+www.risques.gouv.fr	Page d'accueil - SIG Risques : Portail interministériel de prévention des Risques majeurs	
+www.risquesmajeurs-hautes-pyrenees.pref.gouv.fr	Risques majeurs recensés dans les Hautes-Pyrénées	
+www.rn19.franche-comte.developpement-durable.gouv.fr	DREAL Franche-Comté	
+www.route.developpement-durable.gouv.fr	Secteur Routier - Ministère du Développement durable	
+www.routes.developpement-durable.gouv.fr	Secteur Routier - Ministère du Développement durable	
+www.rsa.gouv.fr	Le revenu de solidarité active (rSa) - Droits et aides - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.sae-diffusion.sante.gouv.fr		
+www.saint-pierre-et-miquelon.developpement-durable.gouv.fr	Direction des Territoires, de l'Alimentation et de la Mer 	
+www.sante-jeunesse-sports.gouv.fr	Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.sante-securite.travail.gouv.fr	Santé au travail - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.sante-sports.gouv.fr	Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.sante.gouv.fr	Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.santesport.gouv.fr	Le site du ministère de la Ville, de la Jeunesse et des Sports	
+www.saone-et-loire.developpement-durable.gouv.fr	Services Etat Saône-et-Loire	
+www.saone-et-loire.equipement-agriculture.gouv.fr	Services Etat Saône-et-Loire	
+www.saone-et-loire.equipement.gouv.fr	Services Etat Saône-et-Loire	
+www.saone-et-loire.gouv.fr	Services Etat Saône-et-Loire	
+www.saone-et-loire.pref.gouv.fr	Services Etat Saône-et-Loire	
+www.sarthe.equipement.gouv.fr	La préfecture de la Sarthe	
+www.sarthe.gouv.fr	La préfecture de la Sarthe	
+www.sarthe.pref.gouv.fr	La préfecture de la Sarthe	
+www.sdap-57.culture.gouv.fr	Drac Alsace - Champagne-Ardenne - Lorraine - Ministère de la Culture et de la Communication	
+www.sdtefp-bretagne.travail.gouv.fr	Direccte Bretagne	
+www.securitesanitairedesaliments.agriculture.gouv.fr	Alim'agri :	
+www.seine-et-marne.sit.gouv.fr	SIT S&amp; M	
+www.semaine.industrie.gouv.fr	Présentation : Direction Générale des Entreprises (DGE)	
+www.semainedudeveloppementdurable.gouv.fr	La semaine européenne du développement durable - Ministère du Développement durable	
+www.senat.fr	Accueil - Sénat	
+www.sep.justice.gouv.fr	Ministère de la Justice - sep	
+www.service-civique.gouv.fr	Accueil - Service Civique	
+www.servicehistorique.sga.defense.gouv.fr	666 Bad Request	
+www.servicesalapersonne.gouv.fr	Services à la personne : Direction Générale des Entreprises (DGE)	
+www.setra.developpement-durable.gouv.fr	Internet de la Direction technique Infrastructures de transport et matériaux (DTecITM) du Cerema	
+www.sgae.gouv.fr	Secrétariat général des affaires européennes - Accueil	
+www.sgcipd.interieur.gouv.fr	SITE EN MAINTENANCE	
+www.sgdn.gouv.fr	Secrétariat général de la défense et de la sécurité nationale	
+www.sgdsn.gouv.fr	Secrétariat général de la défense et de la sécurité nationale	
+www.sgmer.gouv.fr	Secrétariat général de la mer (SGMer) : Gouvernement.fr	
+www.shom.marine.defense.gouv.fr	www.shom.fr	
+www.sia.aviation-civile.gouv.fr	SIA : Service d'information aéronautique. Contrôle et réglementation de la     circulation aérienne.	
+www.side.developpement-durable.gouv.fr	Accueil - SIDE 	
+www.sites-pollues.developpement-durable.gouv.fr	-BRGM- Site momentanément indisponible	
+www.sites-pollues.ecologie.gouv.fr	Sites et sols pollués - Ministère du Développement durable	
+www.sn-nord-est.developpement-durable.gouv.fr	SNNE : Service Navigation du Nord Est	
+www.sn-nord-est.equipement.gouv.fr	SNNE : Service Navigation du Nord Est	
+www.sn-seine.developpement-durable.gouv.fr	Site internet de la Direction territoriale Bassin de la Seine	
+www.social-sante.gouv.fr	Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.solidarite.gouv.fr	Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.sports.gouv.fr	Le site du ministère de la Ville, de la Jeunesse et des Sports	
+www.ssi.gouv.fr	Agence nationale de la sécurité des systèmes d'information	
+www.stac.aviation-civile.gouv.fr	Service technique de l'aviation civile - STAC	
+www.statistique-publique.fr		
+www.statistiques.developpement-durable.gouv.fr	Accueil : Observation et statistiques	
+www.stats.environnement.developpement-durable.gouv.fr	Nouveau site	
+www.stop-violences-femmes.gouv.fr	Violences contre les femmes La loi vous protège	
+www.strategie.gouv.fr	France Stratégie : Organisme de réflexion, d'expertise et de conseils placés auprès du premier Ministre | évaluer, anticiper, débattre, proposer	
+www.strmtg.equipement.gouv.fr	Site internet du STRMTG	
+www.surfez-intelligent.gouv.fr		
+www.sytadin.equipement.gouv.fr	Sytadin : l'état du trafic en Île-de-France en temps réel	
+www.tabac.gouv.fr	Système de santé et médico-social - Ministère des Affaires sociales, de la Santé et des Droits des femmes	
+www.tarifs-bancaires.gouv.fr	Les principaux tarifs bancaires : Site officiel d'information	
+www.tarn.gouv.fr	site des Services de l'Etat du département du Tarn	
+www.tarn.pref.gouv.fr	site des Services de l'Etat du département du Tarn	
+www.telecom.gouv.fr	Le numérique, un enjeu stratégique - www.telecom.gouv.fr	
+www.telepac.agriculture.gouv.fr	Telepac - Téléservices des aides de la PAC	
+www.telerc.travail.gouv.fr	SIRC - Accueil	
+www.temps.travail.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.territoires.gouv.fr	Ministère du Logement, de l'Égalité des territoires et de la Ruralité	
+www.textes.justice.gouv.fr	Justice / Textes et réformes	
+www.tourisme.equipement.gouv.fr	Maintenance.html	
+www.tracfin.bercy.gouv.fr	TRACFIN - Accueil Tracfin : Le portail des ministères économiques et financiers	
+www.tracfin.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.transports.aquitaine.equipement.gouv.fr	Transports en Aquitaine	
+www.transports.developpement-durable.gouv.fr	Transports - Ministère du Développement durable	
+www.travail-emploi-sante.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.travail-emploi.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.travail-solidarite.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.travail.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.travailler-mieux.gouv.fr	Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social	
+www.tresor.bercy.gouv.fr	Site Internet de la direction générale du Trésor 	
+www.tresor.economie.gouv.fr	Site Internet de la direction générale du Trésor 	
+www.tutelles.justice.gouv.fr	Justice / Portail / Tutelles	
+www.ultramarins.gouv.fr	Accueil - Délégation interministérielle pour l'égalité des chances des Français d'Outre-Mer	
+www.urbanisme.developpement-durable.gouv.fr	Ville durable, aménagement, sites et paysage - Ministère du Développement durable	
+www.vae.gouv.fr	Le portail de la validation des acquis de l'expérience	
+www.var.equipement-agriculture.gouv.fr	L'Etat dans le Var - Préfecture de Toulon (83)	
+www.var.equipement.gouv.fr	L'Etat dans le Var - Préfecture de Toulon (83)	
+www.var.gouv.fr	L'Etat dans le Var - Préfecture de Toulon (83)	
+www.var.pref.gouv.fr	L'Etat dans le Var - Préfecture de Toulon (83)	
+www.vaucluse.equipement-agriculture.gouv.fr	L'ETAT dans le Vaucluse - Préfecture d'Avignon (84)	
+www.vaucluse.equipement.gouv.fr	L'ETAT dans le Vaucluse - Préfecture d'Avignon (84)	
+www.vaucluse.gouv.fr	L'ETAT dans le Vaucluse - Préfecture d'Avignon (84)	
+www.vaucluse.pref.gouv.fr	L'ETAT dans le Vaucluse - Préfecture d'Avignon (84)	
+www.vendee.gouv.fr	Internet des Services de l'Etat de Vendée	
+www.vendee.pref.gouv.fr	Internet des Services de l'Etat de Vendée	
+www.videoprotection.interieur.gouv.fr	Actualités / Vidéoprotection - Ministère de l'Intérieur	
+www.vie-publique.fr	Vie publique : au coeur du débat public	
+www.vigicrues.developpement-durable.gouv.fr	Vigicrues : Information nationale	
+www.vigicrues.ecologie.gouv.fr	Accès interdit	
+www.vigicrues.gouv.fr	Vigicrues : Information nationale	
+www.ville.gouv.fr	Ville.gouv.fr - Ministère de la Ville	
+www.visite.culture.gouv.fr	visite.culture.gouv	
+www.voiriepourtous.developpement-durable.gouv.fr	internet voirie pour tous	
+www.vos-droits.justice.gouv.fr	Justice / Vos droits et démarches	
+www.webservices.minefi.gouv.fr	Apprentissage - Grands dossiers - Ministère du Travail, de l'Emploi,   de la Formation professionnelle et du Dialogue social
